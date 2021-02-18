@@ -16,3 +16,4 @@
 # Reference
 - [Transformer模型原理详解](https://zhuanlan.zhihu.com/p/44121378)
 - [完全解析RNN, Seq2Seq, Attention注意力机制](https://zhuanlan.zhihu.com/p/51383402)
+- [Seq2Seq and transformer implementation](https://github.com/bentrevett/pytorch-seq2seq)
