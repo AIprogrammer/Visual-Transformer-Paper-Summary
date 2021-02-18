@@ -17,3 +17,4 @@
 - Transformer模型原理详解 [[zhihu](https://zhuanlan.zhihu.com/p/44121378)] [[csdn](https://blog.csdn.net/longxinchen_ml/article/details/86533005)]
 - [完全解析RNN, Seq2Seq, Attention注意力机制](https://zhuanlan.zhihu.com/p/51383402)
 - [Seq2Seq and transformer implementation](https://github.com/bentrevett/pytorch-seq2seq)
+- End-To-End Memory Networks [[zhihu](https://zhuanlan.zhihu.com/p/29679742)]
