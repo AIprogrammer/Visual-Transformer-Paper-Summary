@@ -1,4 +1,8 @@
 # Milestones
+## Attention
+- Recurrent Models of Visual Attention [2014 deepmind NIPS]
+- Neural Machine Translation by Jointly Learning to Align and Translate [ICLR 2015]
+- 
 ## NLP
 - Sequence to Sequence Learning with Neural Networks [NIPS 2014] [[paper](https://arxiv.org/abs/1409.3215)] [[code](https://github.com/bentrevett/pytorch-seq2seq)]
 - End-To-End Memory Networks [NIPS 2015] [[paper](https://arxiv.org/abs/1503.08895)] [[code](https://github.com/nmhkahn/MemN2N-pytorch)]
@@ -15,7 +19,7 @@
 - DeiT: Data-efficient Image Transformers [arxiv2021] [[paper](https://arxiv.org/abs/2012.12877)] [[code](https://github.com/facebookresearch/deit)]
     - Token-based strategy and build upon VIT and convolutional models
     - 
-#### interesting repos
+#### Interesting Repos
 - [Convolutional Cifar10](https://github.com/kuangliu/pytorch-cifar/blob/master/main.py)
 - [vision-transformers-cifar10](https://github.com/kentaroy47/vision-transformers-cifar10)
     - Found that performance was worse than simple resnet18
@@ -33,7 +37,11 @@
 ### Prediction
 - Deep Transformer Models for Time Series Forecasting: The Influenza Prevalence Case [[paper](https://arxiv.org/pdf/2001.08317.pdf)]
 # Reference
+- Attention 机制详解1，2 [zhihu1](https://zhuanlan.zhihu.com/p/47063917) [zhihu2](https://zhuanlan.zhihu.com/p/47282410)
+- [自然语言处理中的自注意力机制（Self-attention Mechanism)](https://www.cnblogs.com/robert-dlut/p/8638283.html)
 - Transformer模型原理详解 [[zhihu](https://zhuanlan.zhihu.com/p/44121378)] [[csdn](https://blog.csdn.net/longxinchen_ml/article/details/86533005)]
 - [完全解析RNN, Seq2Seq, Attention注意力机制](https://zhuanlan.zhihu.com/p/51383402)
 - [Seq2Seq and transformer implementation](https://github.com/bentrevett/pytorch-seq2seq)
 - End-To-End Memory Networks [[zhihu](https://zhuanlan.zhihu.com/p/29679742)]
+- [Illustrating the key,query,value in attention](https://medium.com/@b.terryjack/deep-learning-the-transformer-9ae5e9c5a190)
+- 
