@@ -9,8 +9,19 @@
 
 ## CV
 ### Classification
+#### Papers and Codes
 - An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale [VIT] [ICLR 2021] [[paper](https://arxiv.org/abs/2010.11929)] [[code](https://github.com/lucidrains/vit-pytorch)]
+    - Trained with extra private data: do not generalized well when trained on insufficient amounts of data
 - DeiT: Data-efficient Image Transformers [arxiv2021] [[paper](https://arxiv.org/abs/2012.12877)] [[code](https://github.com/facebookresearch/deit)]
+    - Token-based strategy and build upon VIT and convolutional models
+    - 
+#### interesting repos
+- [Convolutional Cifar10](https://github.com/kuangliu/pytorch-cifar/blob/master/main.py)
+- [vision-transformers-cifar10](https://github.com/kentaroy47/vision-transformers-cifar10)
+    - Found that performance was worse than simple resnet18
+    - The influence of hyper-parameters: dim of vit, etc.
+- [ViT-pytorch](https://github.com/jeonsworld/ViT-pytorch)
+    - Using pretrained weights can get better results
 ### Detection
 - DETR: End-to-End Object Detection with Transformers [ECCV2020] [[paper](https://arxiv.org/abs/2005.12872)] [[code](https://github.com/facebookresearch/detr)]
 - Deformable DETR: Deformable Transformers for End-to-End Object Detection [ICLR2021] [[paper](https://openreview.net/forum?id=gZ9hCDWe6ke)] [[code](https://github.com/fundamentalvision/Deformable-DETR)]
