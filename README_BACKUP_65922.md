@@ -51,6 +51,7 @@
 - Pedestrian Trajectory Prediction using Context-Augmented Transformer Networks [ICRA 2020] [[paper](https://arxiv.org/abs/2012.01757)] [[code]()]
 -Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction [ECCV 2020] [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570494.pdf)] [[code](https://github.com/Majiker/STAR)]
 - Hierarchical Multi-Scale Gaussian Transformer for Stock Movement Prediction [[paper](https://www.ijcai.org/Proceedings/2020/0640.pdf)]
+>>>>>>> 4841a6f343934b2705ac2cfec2aa1791c63beec2
 # Reference
 - Attention 机制详解1，2 [zhihu1](https://zhuanlan.zhihu.com/p/47063917) [zhihu2](https://zhuanlan.zhihu.com/p/47282410)
 - [自然语言处理中的自注意力机制（Self-attention Mechanism)](https://www.cnblogs.com/robert-dlut/p/8638283.html)
