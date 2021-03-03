@@ -81,4 +81,4 @@
 - [Transformer in CV](https://towardsdatascience.com/transformer-in-cv-bbdb58bf335e)
 
 # Acknowledgement
-Thanks for the awesome survey papers of Transformer.
+Thanks the awesome survey papers of Transformer.
