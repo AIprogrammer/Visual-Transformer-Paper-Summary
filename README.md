@@ -28,7 +28,9 @@
     - Trained with extra private data: do not generalized well when trained on insufficient amounts of data
 - DeiT: Data-efficient Image Transformers [arxiv2021] [[paper](https://arxiv.org/abs/2012.12877)] [[code](https://github.com/facebookresearch/deit)]
     - Token-based strategy and build upon VIT and convolutional models
-- T2T-ViT: Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet [arxiv2021] [[paper](https://arxiv.org/abs/2101.11986)] [[code](https://github.com/yitu-opensource/T2T-ViT)] 
+- T2T-ViT: Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet [arxiv2021] [[paper](https://arxiv.org/abs/2101.11986)] [[code](https://github.com/yitu-opensource/T2T-ViT)]
+- Transformer in Transformer [arxiv 2021] [[paper](https://arxiv.org/abs/2103.00112)] [[code1](https://github.com/lucidrains/transformer-in-transformer)] [[code-official](https://github.com/huawei-noah/noah-research/tree/master/TNT)]
+- OmniNet: Omnidirectional Representations from Transformers [arxiv2021] [[paper](https://arxiv.org/abs/2103.01075)]
 #### Interesting Repos
 - [Convolutional Cifar10](https://github.com/kuangliu/pytorch-cifar/blob/master/main.py)
 - [vision-transformers-cifar10](https://github.com/kentaroy47/vision-transformers-cifar10)
@@ -56,6 +58,7 @@
 - TransGAN: Two Transformers Can Make One Strong GAN [[paper](https://arxiv.org/pdf/2102.07074.pdf)] [[code](https://github.com/VITA-Group/TransGAN)]
 - Taming Transformers for High-Resolution Image Synthesis [[paper](https://arxiv.org/abs/2012.09841)] [[code](https://github.com/CompVis/taming-transformers)]
 - iGPT: Generative Pretraining from Pixels [ICML 2020] [[paper](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)] [[code](https://github.com/openai/image-gpt)]
+- Generative Adversarial Transformers [arxiv 2021] [[paper](https://arxiv.org/abs/2103.01209)] [[code](https://github.com/dorarad/gansformer)]
 ### Inpainting
 - STTN: Learning Joint Spatial-Temporal Transformations for Video Inpainting [ECCV 2020] [[paper](https://arxiv.org/abs/2007.10247)] [[code](https://github.com/researchmm/STTN)]
 ### Image enhancement
@@ -72,6 +75,7 @@
 - Pedestrian Trajectory Prediction using Context-Augmented Transformer Networks [ICRA 2020] [[paper](https://arxiv.org/abs/2012.01757)] [[code]()]
 -Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction [ECCV 2020] [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570494.pdf)] [[code](https://github.com/Majiker/STAR)]
 - Hierarchical Multi-Scale Gaussian Transformer for Stock Movement Prediction [[paper](https://www.ijcai.org/Proceedings/2020/0640.pdf)]
+- Single-Shot Motion Completion with Transformer [arxiv2021] [[paper](https://arxiv.org/abs/2103.00776)] [[code](https://github.com/FuxiCV/SSMCT)]
 # Reference
 - Attention 机制详解1，2 [zhihu1](https://zhuanlan.zhihu.com/p/47063917) [zhihu2](https://zhuanlan.zhihu.com/p/47282410)
 - [自然语言处理中的自注意力机制（Self-attention Mechanism)](https://www.cnblogs.com/robert-dlut/p/8638283.html)
