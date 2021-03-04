@@ -2,7 +2,6 @@
 ## Attention
 - Recurrent Models of Visual Attention [2014 deepmind NIPS]
 - Neural Machine Translation by Jointly Learning to Align and Translate [ICLR 2015]
-- 
 
 ## Overall Survey
 - Efficient Transformers: A Survey [[paper](https://arxiv.org/abs/2009.06732)]
@@ -73,7 +72,7 @@
 - Transformer networks for trajectory forecasting [ICPR 2020] [[paper](https://arxiv.org/abs/2003.08111)] [[code](https://github.com/FGiuliari/Trajectory-Transformer)]
 - Spatial-Channel Transformer Network for Trajectory Prediction on the Traffic Scenes [arxiv 2021] [[paper](https://arxiv.org/abs/2101.11472)] [[code]()]
 - Pedestrian Trajectory Prediction using Context-Augmented Transformer Networks [ICRA 2020] [[paper](https://arxiv.org/abs/2012.01757)] [[code]()]
--Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction [ECCV 2020] [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570494.pdf)] [[code](https://github.com/Majiker/STAR)]
+- Spatio-Temporal Graph Transformer Networks for Pedestrian Trajectory Prediction [ECCV 2020] [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570494.pdf)] [[code](https://github.com/Majiker/STAR)]
 - Hierarchical Multi-Scale Gaussian Transformer for Stock Movement Prediction [[paper](https://www.ijcai.org/Proceedings/2020/0640.pdf)]
 - Single-Shot Motion Completion with Transformer [arxiv2021] [[paper](https://arxiv.org/abs/2103.00776)] [[code](https://github.com/FuxiCV/SSMCT)]
 # Reference
