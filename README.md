@@ -45,11 +45,13 @@
 - End-to-end Lane Shape Prediction with Transformers [WACV 2021] [[paper](https://arxiv.org/pdf/2011.04233.pdf)] [[code](https://github.com/liuruijin17/LSTR)]
 - ViT-FRCNN: Toward Transformer-Based Object Detection [arxiv2020] [[paper](https://arxiv.org/abs/2012.09958)]
 - Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions [arxiv 2021] [[paper](https://arxiv.org/abs/2102.12122)] [[code](https://github.com/whai362/PVT)]
+### Tracking
+- TransTrack: Multiple-Object Tracking with Transformer [arxiv 2020] [[paper](https://arxiv.org/abs/2012.15460)] [[code](https://github.com/PeizeSun/TransTrack)]
 ### Segmentation
 - SETR : Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers [arxiv2021] [[paper](https://arxiv.org/abs/2012.15840)] [[code](https://github.com/fudan-zvg/SETR)]
 - Trans2Seg: Transparent Object Segmentation with Transformer [arxiv2021] [[paper](https://arxiv.org/abs/2101.08461)] [[code](https://github.com/xieenze/Trans2Seg)]
 - End-to-End Video Instance Segmentation with Transformers [arxiv2020] [[paper](https://arxiv.org/abs/2011.14503)] [[zhihu](https://zhuanlan.zhihu.com/p/343286325)]
-- MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers [arxiv2020] [[paper](https://arxiv.org/pdf/2012.00759.pdf)] 
+- MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers [arxiv2020] [[paper](https://arxiv.org/pdf/2012.00759.pdf)]
 ### Generation
 - TransGAN: Two Transformers Can Make One Strong GAN [[paper](https://arxiv.org/pdf/2102.07074.pdf)] [[code](https://github.com/VITA-Group/TransGAN)]
 - Taming Transformers for High-Resolution Image Synthesis [[paper](https://arxiv.org/abs/2012.09841)] [[code](https://github.com/CompVis/taming-transformers)]
