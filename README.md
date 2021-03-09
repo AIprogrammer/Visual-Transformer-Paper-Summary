@@ -37,6 +37,8 @@
     - The influence of hyper-parameters: dim of vit, etc.
 - [ViT-pytorch](https://github.com/jeonsworld/ViT-pytorch)
     - Using pretrained weights can get better results
+### Interpretability
+- Transformer Interpretability Beyond Attention Visualization [CVPR 2021] [[paper](https://arxiv.org/abs/2012.09838)] [[code](https://github.com/hila-chefer/Transformer-Explainability)]
 ### Detection
 - DETR: End-to-End Object Detection with Transformers [ECCV2020] [[paper](https://arxiv.org/abs/2005.12872)] [[code](https://github.com/facebookresearch/detr)]
 - Deformable DETR: Deformable Transformers for End-to-End Object Detection [ICLR2021] [[paper](https://openreview.net/forum?id=gZ9hCDWe6ke)] [[code](https://github.com/fundamentalvision/Deformable-DETR)]
