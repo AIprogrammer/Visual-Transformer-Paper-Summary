@@ -55,6 +55,7 @@
 - Trans2Seg: Transparent Object Segmentation with Transformer [arxiv2021] [[paper](https://arxiv.org/abs/2101.08461)] [[code](https://github.com/xieenze/Trans2Seg)]
 - End-to-End Video Instance Segmentation with Transformers [arxiv2020] [[paper](https://arxiv.org/abs/2011.14503)] [[zhihu](https://zhuanlan.zhihu.com/p/343286325)]
 - MaX-DeepLab: End-to-End Panoptic Segmentation with Mask Transformers [arxiv2020] [[paper](https://arxiv.org/pdf/2012.00759.pdf)]
+- Medical Transformer: Gated Axial-Attention for Medical Image Segmentation [arxiv 2020] [[paper](https://arxiv.org/pdf/2102.10662.pdf)] [[code](https://github.com/jeya-maria-jose/Medical-Transformer)]
 ### Generation
 - TransGAN: Two Transformers Can Make One Strong GAN [[paper](https://arxiv.org/pdf/2102.07074.pdf)] [[code](https://github.com/VITA-Group/TransGAN)]
 - Taming Transformers for High-Resolution Image Synthesis [[paper](https://arxiv.org/abs/2012.09841)] [[code](https://github.com/CompVis/taming-transformers)]
@@ -68,7 +69,10 @@
 ### Pose Estimation
 - Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation [ECCV 2020] [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700018.pdf)]
 - HOT-Net: Non-Autoregressive Transformer for 3D Hand-Object Pose Estimation [ACMMM 2020] [[paper](https://cse.buffalo.edu/~jmeng2/publications/hotnet_mm20)]
-- End-to-End Human Pose and Mesh Reconstruction with Transformers [arxiv2020] [[paper](https://arxiv.org/abs/2012.09760)]
+- End-to-End Human Pose and Mesh Reconstruction with Transformers [arxiv 2020] [[paper](https://arxiv.org/abs/2012.09760)]
+- 3D Human Pose Estimation with Spatial and Temporal Transformers [arxiv 2020] [[paper](https://arxiv.org/pdf/2103.10455.pdf)] [[code](https://github.com/zczcwh/PoseFormer)]
+### Video Understanding
+- Is Space-Time Attention All You Need for Video Understanding? [arxiv 2020] [[paper](https://arxiv.org/abs/2102.05095)] [[code](https://github.com/lucidrains/TimeSformer-pytorch)]
 ### Prediction
 - Deep Transformer Models for Time Series Forecasting: The Influenza Prevalence Case [[paper](https://arxiv.org/pdf/2001.08317.pdf)]
 - Transformer networks for trajectory forecasting [ICPR 2020] [[paper](https://arxiv.org/abs/2003.08111)] [[code](https://github.com/FGiuliari/Trajectory-Transformer)]
