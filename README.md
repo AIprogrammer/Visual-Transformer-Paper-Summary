@@ -23,6 +23,7 @@
 ## CV
 ### Classification
 #### Papers and Codes
+- Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [arxiv 2021] [[paper](https://arxiv.org/abs/2103.14030)] [[code](https://github.com/microsoft/Swin-Transformer)]
 - VIT: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale [VIT] [ICLR 2021] [[paper](https://arxiv.org/abs/2010.11929)] [[code](https://github.com/lucidrains/vit-pytorch)]
     - Trained with extra private data: do not generalized well when trained on insufficient amounts of data
 - DeiT: Data-efficient Image Transformers [arxiv2021] [[paper](https://arxiv.org/abs/2012.12877)] [[code](https://github.com/facebookresearch/deit)]
@@ -74,6 +75,7 @@
 ### Video Understanding
 - Is Space-Time Attention All You Need for Video Understanding? [arxiv 2020] [[paper](https://arxiv.org/abs/2102.05095)] [[code](https://github.com/lucidrains/TimeSformer-pytorch)]
 ### Prediction
+- Multimodal Motion Prediction with Stacked Transformers [CVPR 2021] [[paper](https://arxiv.org/pdf/2103.11624.pdf)] [[code](https://github.com/decisionforce/mmTransformer)]
 - Deep Transformer Models for Time Series Forecasting: The Influenza Prevalence Case [[paper](https://arxiv.org/pdf/2001.08317.pdf)]
 - Transformer networks for trajectory forecasting [ICPR 2020] [[paper](https://arxiv.org/abs/2003.08111)] [[code](https://github.com/FGiuliari/Trajectory-Transformer)]
 - Spatial-Channel Transformer Network for Trajectory Prediction on the Traffic Scenes [arxiv 2021] [[paper](https://arxiv.org/abs/2101.11472)] [[code]()]
