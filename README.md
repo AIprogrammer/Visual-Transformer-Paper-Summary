@@ -38,8 +38,11 @@
     - The influence of hyper-parameters: dim of vit, etc.
 - [ViT-pytorch](https://github.com/jeonsworld/ViT-pytorch)
     - Using pretrained weights can get better results
-### Interpretability
+### Interpretability and Robustness
 - Transformer Interpretability Beyond Attention Visualization [CVPR 2021] [[paper](https://arxiv.org/abs/2012.09838)] [[code](https://github.com/hila-chefer/Transformer-Explainability)]
+- On the Adversarial Robustness of Visual Transformers [arxiv 2021] [[paper](https://arxiv.org/abs/2103.15670)] 
+- Robustness Verification for Transformers [ICLR 2020] [[paper](https://arxiv.org/abs/2002.06622)] [[code](https://github.com/shizhouxing/Robustness-Verification-for-Transformers)]
+- Pretrained Transformers Improve Out-of-Distribution Robustness [ACL 2020] [[paper](https://arxiv.org/abs/2004.06100)] [[code](https://github.com/camelop/NLP-Robustness)]
 ### Detection
 - DETR: End-to-End Object Detection with Transformers [ECCV2020] [[paper](https://arxiv.org/abs/2005.12872)] [[code](https://github.com/facebookresearch/detr)]
 - Deformable DETR: Deformable Transformers for End-to-End Object Detection [ICLR2021] [[paper](https://openreview.net/forum?id=gZ9hCDWe6ke)] [[code](https://github.com/fundamentalvision/Deformable-DETR)]
@@ -72,6 +75,9 @@
 - HOT-Net: Non-Autoregressive Transformer for 3D Hand-Object Pose Estimation [ACMMM 2020] [[paper](https://cse.buffalo.edu/~jmeng2/publications/hotnet_mm20)]
 - End-to-End Human Pose and Mesh Reconstruction with Transformers [arxiv 2020] [[paper](https://arxiv.org/abs/2012.09760)]
 - 3D Human Pose Estimation with Spatial and Temporal Transformers [arxiv 2020] [[paper](https://arxiv.org/pdf/2103.10455.pdf)] [[code](https://github.com/zczcwh/PoseFormer)]
+- End-to-End Trainable Multi-Instance Pose Estimation with Transformers [arxiv 2020] [[paper](https://arxiv.org/abs/2103.12115)]
+### Face Expression
+- Robust Facial Expression Recognition with Convolutional Visual Transformers [arxiv 2020] [[paper](https://arxiv.org/abs/2103.16854)]
 ### Video Understanding
 - Is Space-Time Attention All You Need for Video Understanding? [arxiv 2020] [[paper](https://arxiv.org/abs/2102.05095)] [[code](https://github.com/lucidrains/TimeSformer-pytorch)]
 ### Prediction
