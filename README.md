@@ -118,6 +118,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 <a name="Pose-Estimation"></a>
 ### Pose Estimation
+- TransPose: Towards Explainable Human Pose Estimation by Transformer [arxiv 2020] [[paper](https://arxiv.org/abs/2012.14214)] [[code](https://github.com/yangsenius/TransPose)]
 - Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation [ECCV 2020] [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700018.pdf)]
 - HOT-Net: Non-Autoregressive Transformer for 3D Hand-Object Pose Estimation [ACMMM 2020] [[paper](https://cse.buffalo.edu/~jmeng2/publications/hotnet_mm20)]
 - End-to-End Human Pose and Mesh Reconstruction with Transformers [arxiv 2020] [[paper](https://arxiv.org/abs/2012.09760)]
