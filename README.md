@@ -6,7 +6,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 * [Attention](#attention)
 * [OverallSurvey](#OverallSurvey)
 * [NLP](#nlp)
-    * Language(#Language)
+    * Language(#language)
     * [Speech](#Speech)
 * [CV](#cv)
     * [Classification](#Classification)
@@ -36,7 +36,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
  
 ## NLP
 
-<a name="Language"></a>
+<a name="language"></a>
 ### Language
 - Sequence to Sequence Learning with Neural Networks [NIPS 2014] [[paper](https://arxiv.org/abs/1409.3215)] [[code](https://github.com/bentrevett/pytorch-seq2seq)]
 - End-To-End Memory Networks [NIPS 2015] [[paper](https://arxiv.org/abs/1503.08895)] [[code](https://github.com/nmhkahn/MemN2N-pytorch)]
