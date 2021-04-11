@@ -9,7 +9,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
         - [Language](#Language)
         - [Speech](#Speech)
 - [CV](#cv)
-        - [Classification](#classification)
+-       - [Classification](#classification)
         - [Interpretability and Robustness](#Interpretability-and-Robustness)
         - [Detection](#Detection)
         - [Tracking](#Tracking)
