@@ -8,8 +8,8 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - [NLP](#nlp)
         - [Language](#Language)
         - [Speech](#Speech)
-- [CV](#cv)
--       [Classification](#classification)
+- [CV](#cv)<br>
+        - [Classification](#classification)
         - [Interpretability and Robustness](#Interpretability-and-Robustness)
         - [Detection](#Detection)
         - [Tracking](#Tracking)
@@ -22,6 +22,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
         - [Video Understanding](#Video-Understanding)
         - [Video Understanding](#Video-Understanding)
         - [Prediction](#Prediction)
+
 - [Reference](#Reference)
 - [Acknowledgement](#Acknowledgement)
 
