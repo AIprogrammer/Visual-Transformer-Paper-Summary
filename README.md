@@ -6,7 +6,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 * [Attention](#attention)
 * [OverallSurvey](#OverallSurvey)
 * [NLP](#nlp)
-    * Language(#language)
+    * [Language](#language)
     * [Speech](#Speech)
 * [CV](#cv)
     * [Classification](#Classification)
