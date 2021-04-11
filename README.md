@@ -1,9 +1,18 @@
-# Milestones
+# Awesome-Transformer-CV
+
+If you have any problems, suggestions or improvements, please submit the issue or PR.
+
+## Contents
+* [Attention](#attention)
+* [OverallSurvey](#OverallSurvey)
+* [NLP](#nlp)
+* [CV](#cv)
+
 ## Attention
 - Recurrent Models of Visual Attention [2014 deepmind NIPS]
 - Neural Machine Translation by Jointly Learning to Align and Translate [ICLR 2015]
 
-## Overall Survey
+## OverallSurvey
 - Efficient Transformers: A Survey [[paper](https://arxiv.org/abs/2009.06732)]
 - A Survey on Visual Transformer [[paper](https://arxiv.org/abs/2012.12556)]
 - Transformers in Vision: A Survey [[paper](https://arxiv.org/abs/2101.01169)]
