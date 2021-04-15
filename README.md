@@ -21,6 +21,8 @@ If you have any problems, suggestions or improvements, please submit the issue o
     * [Face Expression](#Face-Expression)
     * [Video Understanding](#Video-Understanding)
     * [Prediction](#Prediction)
+    * [NAS](#NAS)
+* [MultiModal](#MultiModal)
 * [Reference](#Reference)
 * [Acknowledgement](#Acknowledgement)
 
@@ -80,6 +82,8 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 <a name="Detection"></a>
 ### Detection
+- End-to-End Human Object Interaction Detection with HOI Transformer [CVPR 2021] [[paper](https://arxiv.org/abs/2103.04503)] [[code](https://github.com/bbepoch/HoiTransformer)]
+- LoFTR: Detector-Free Local Feature Matching with Transformers [CVPR 2021] [[paper](https://arxiv.org/abs/2104.00680)] [[code](https://github.com/zju3dv/LoFTR)]
 - DETR: End-to-End Object Detection with Transformers [ECCV2020] [[paper](https://arxiv.org/abs/2005.12872)] [[code](https://github.com/facebookresearch/detr)]
 - Deformable DETR: Deformable Transformers for End-to-End Object Detection [ICLR2021] [[paper](https://openreview.net/forum?id=gZ9hCDWe6ke)] [[code](https://github.com/fundamentalvision/Deformable-DETR)]
 - End-to-End Object Detection with Adaptive Clustering Transformer [arxiv2020] [[paper](https://arxiv.org/abs/2011.09315)]
@@ -91,7 +95,8 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 <a name="Detection"></a>
 ### Tracking
-- TransTrack: Multiple-Object Tracking with Transformer [arxiv 2020] [[paper](https://arxiv.org/abs/2012.15460)] [[code](https://github.com/PeizeSun/TransTrack)]
+- Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking [CVPR 2021] [[paper](https://arxiv.org/abs/2103.11681)] [[code](https://github.com/594422814/TransformerTrack)]
+- TransTrack: Multiple-Object Tracking with Transformer [CVPR 2021] [[paper](https://arxiv.org/abs/2012.15460)] [[code](https://github.com/PeizeSun/TransTrack)]
 
 <a name="Segmentation"></a>
 ### Segmentation
@@ -103,11 +108,11 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 <a name="Generation"></a>
 ### Generation
+- Variational Transformer Networks for Layout Generation [CVPR 2021] [[paper](https://arxiv.org/abs/2104.02416)]
 - TransGAN: Two Transformers Can Make One Strong GAN [[paper](https://arxiv.org/pdf/2102.07074.pdf)] [[code](https://github.com/VITA-Group/TransGAN)]
 - Taming Transformers for High-Resolution Image Synthesis [[paper](https://arxiv.org/abs/2012.09841)] [[code](https://github.com/CompVis/taming-transformers)]
 - iGPT: Generative Pretraining from Pixels [ICML 2020] [[paper](https://cdn.openai.com/papers/Generative_Pretraining_from_Pixels_V2.pdf)] [[code](https://github.com/openai/image-gpt)]
 - Generative Adversarial Transformers [arxiv 2021] [[paper](https://arxiv.org/abs/2103.01209)] [[code](https://github.com/dorarad/gansformer)]
-
 <a name="Inpainting"></a>
 ### Inpainting
 - STTN: Learning Joint Spatial-Temporal Transformations for Video Inpainting [ECCV 2020] [[paper](https://arxiv.org/abs/2007.10247)] [[code](https://github.com/researchmm/STTN)]
@@ -119,6 +124,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 
 <a name="Pose-Estimation"></a>
 ### Pose Estimation
+- Pose Recognition with Cascade Transformers [arxiv 2021] [[paper](https://arxiv.org/abs/2104.06976)] [[code](https://github.com/mlpc-ucsd/PRTR)]
 - TransPose: Towards Explainable Human Pose Estimation by Transformer [arxiv 2020] [[paper](https://arxiv.org/abs/2012.14214)] [[code](https://github.com/yangsenius/TransPose)]
 - Hand-Transformer: Non-Autoregressive Structured Modeling for 3D Hand Pose Estimation [ECCV 2020] [[paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700018.pdf)]
 - HOT-Net: Non-Autoregressive Transformer for 3D Hand-Object Pose Estimation [ACMMM 2020] [[paper](https://cse.buffalo.edu/~jmeng2/publications/hotnet_mm20)]
@@ -145,6 +151,14 @@ If you have any problems, suggestions or improvements, please submit the issue o
 - Hierarchical Multi-Scale Gaussian Transformer for Stock Movement Prediction [[paper](https://www.ijcai.org/Proceedings/2020/0640.pdf)]
 - Single-Shot Motion Completion with Transformer [arxiv2021] [[paper](https://arxiv.org/abs/2103.00776)] [[code](https://github.com/FuxiCV/SSMCT)]
 
+<a name="NAS"></a>
+### NAS
+- HR-NAS: Searching Efficient High-Resolution Neural Architectures with Transformers [CVPR 2021] [[paper]()] [[code](https://github.com/dingmyu/HR-NAS)]
+
+<a name="MultiModal"></a>
+## MultiModal
+- Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers [CVPR 2021] [[paper](https://arxiv.org/abs/2103.16553)]
+- Revamping Cross-Modal Recipe Retrieval with Hierarchical Transformers and Self-supervised Learning [CVPR2021] [[paper](https://www.amazon.science/publications/revamping-cross-modal-recipe-retrieval-with-hierarchical-transformers-and-self-supervised-learning)] [[code](https://github.com/amzn/image-to-recipe-transformers)]
 
 # Reference
 - Attention 机制详解1，2 [zhihu1](https://zhuanlan.zhihu.com/p/47063917) [zhihu2](https://zhuanlan.zhihu.com/p/47282410)
