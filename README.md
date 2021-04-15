@@ -56,6 +56,7 @@ If you have any problems, suggestions or improvements, please submit the issue o
 <a name="classification"></a>
 ### Classification
 #### Papers and Codes
+- CoaT: Co-Scale Conv-Attentional Image Transformers [arxiv 2021] [[paper](http://arxiv.org/abs/2104.06399)] [[code](https://github.com/mlpc-ucsd/CoaT)]
 - SiT: Self-supervised vIsion Transformer [arxiv 2021] [[paper](https://arxiv.org/abs/2104.03602)] [[code](https://github.com/Sara-Ahmed/SiT)]
 - Swin Transformer: Hierarchical Vision Transformer using Shifted Windows [arxiv 2021] [[paper](https://arxiv.org/abs/2103.14030)] [[code](https://github.com/microsoft/Swin-Transformer)]
 - VIT: An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale [VIT] [ICLR 2021] [[paper](https://arxiv.org/abs/2010.11929)] [[code](https://github.com/lucidrains/vit-pytorch)]
